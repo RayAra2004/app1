@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_texto_hint">اینجا چیزی تایپ کنید</string>
+    <string name="btn_enviar_text">فرستادن</string>
+</resources>
